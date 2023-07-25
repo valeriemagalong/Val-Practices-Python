@@ -1,6 +1,6 @@
 # 👩🏻‍💻 I practice Python!
 
-## A collection of Jupyter notebooks and their HTML renderings, showcasing my journey in learning Python for data analytics.
+## A collection of Jupyter notebooks showcasing my journey in learning Python for data analytics.
 
 This repository was created and continually updated while I was learning Python fundamentals at Fullstack Academy DATA (in partnership with NYC Tech Talent Pipeline).  I aimed to gain mastery over the following data analysis and visualization modules:  
 
