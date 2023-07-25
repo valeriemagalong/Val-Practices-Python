@@ -1,4 +1,4 @@
-# 👩‍💻 I practice Python!
+# 👩🏻‍💻 I practice Python!
 
 ## A collection of Jupyter notebooks and their HTML renderings, showcasing my journey in learning Python for data analytics.
 
