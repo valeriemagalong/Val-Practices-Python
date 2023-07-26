@@ -22,4 +22,9 @@ The mini-challenges detailed below document my journey in learning these essenti
         <td><a href="https://github.com/valeriemagalong/Val-Practices-Python/tree/main/Monty_Hall_Problem">🔗</a></td>
         <td>NumPy random module, conditional statements, probability calculations</td>
     </tr>
+        <tr>
+        <td><a href="https://htmlpreview.github.io/?https://github.com/valeriemagalong/Val-Practices-Python/blob/main/Employee_MLB_Pandas/Pandas_Practice_Employee_MLB_Data.html">Manipulating Employee & MLB Data</a></td>
+        <td><a href="https://github.com/valeriemagalong/Val-Practices-Python/tree/main/Employee_MLB_Pandas">🔗</a></td>
+        <td>Pandas: Series, DataFrames, data import/export methods, descriptive methods</td>
+    </tr>
 </table>
