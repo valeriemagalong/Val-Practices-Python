@@ -28,7 +28,7 @@ The mini-challenges detailed below document my journey in learning these essenti
         <td>Pandas: Series, DataFrames, data import/export methods, descriptive methods</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/valeriemagalong/Val-Practices-Python/blob/main/Northwind_Pandas/Pandas_Practice_Northwind_Data.html">Cleaning & Transforming Northwind Data</a></td>
+        <td><a href="https://htmlpreview.github.io/?https://github.com/valeriemagalong/Val-Practices-Python/blob/main/Northwind_Pandas/Pandas_Practice_Northwind_Data.html">Cleaning & Transforming Northwind Data</a></td>
         <td><a href="https://github.com/valeriemagalong/Val-Practices-Python/tree/main/Northwind_Pandas">🔗</a></td>
         <td>Pandas: DataFrame indexing, transformation methods, aggregation methods</td>
     </tr>
