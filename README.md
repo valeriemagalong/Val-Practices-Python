@@ -32,4 +32,9 @@ The mini-challenges detailed below document my journey in learning these essenti
         <td><a href="https://github.com/valeriemagalong/Val-Practices-Python/tree/main/Northwind_Pandas">🔗</a></td>
         <td>Pandas: DataFrame indexing, transformation methods, aggregation methods</td>
     </tr>
+    <tr>
+        <td><a href="https://htmlpreview.github.io/?https://github.com/valeriemagalong/Val-Practices-Python/blob/main/Penguins_Seaborn/Seaborn_Practice_Penguins_Data.html">Visualizing Penguins Data</a></td>
+        <td><a href="https://github.com/valeriemagalong/Val-Practices-Python/tree/main/Penguins_Seaborn">🔗</a></td>
+        <td>Seaborn: categorical plots, pairwise correlation plots (heatmaps, pairplots)</td>
+    </tr> 
 </table>
