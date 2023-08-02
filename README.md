@@ -37,4 +37,9 @@ The mini-challenges detailed below document my journey in learning these essenti
         <td><a href="https://github.com/valeriemagalong/Val-Practices-Python/tree/main/Penguins_Seaborn">🔗</a></td>
         <td>Seaborn: categorical plots, pairwise correlation plots (heatmaps, pairplots)</td>
     </tr> 
+    <tr>
+        <td><a href="https://htmlpreview.github.io/?https://github.com/valeriemagalong/Val-Practices-Python/blob/main/Penguins_Statistics/Statistics_Practice_Penguins_Data.html">Exploring Statistics with Penguins Data</a></td>
+        <td><a href="https://github.com/valeriemagalong/Val-Practices-Python/tree/main/Penguins_Statistics">🔗</a></td>
+        <td>Pandas: descriptive statistics (median, min/max, percentiles), Seaborn: visualizing distribution (KDE plot)</td>
+    </tr> 
 </table>
