@@ -13,7 +13,7 @@ The mini-challenges detailed below document my journey in learning these essenti
 
 <table style="text-align:center">
     <tr>
-        <th>Mini-Challenge</th>
+        <th>At A Glance</th>
         <th>Repo Link 🔗 / Colab Link <img src="google_colab_icon.png" alt="Colab icon"></th>
         <th>What I Practiced / Used</th>
     </tr>
@@ -48,3 +48,29 @@ The mini-challenges detailed below document my journey in learning these essenti
         <td>Pandas: descriptive statistics (median, min/max, percentiles), Seaborn: visualizing distribution (KDE plot)</td>
     </tr> 
 </table>
+
+
+## Viewing a Jupyter notebook in your browser  
+
+---
+If you only want to view a Jupyter notebook without making any changes, simply click on the link in the *At A Glance* column in the table above.  This will take you to a static page displaying the notebook's contents.
+
+If you would like to interact with the notebook cells and modify the code, you can open the notebook in Google Colab by either:
+1. Clicking on the ![Colab icon](google_colab_icon.png) icon in the *Repo Link / Colab Link* column in the table above.
+2. Clicking on the <span style="color:#4E9AD8"><b>Play with the data in Google Colab.</b></span> link at the top of the Jupyter notebook.
+
+You must be logged into a Google Account in order to interact with the notebook in Google Colab.  Since the notebook is loaded directly from GitHub, any executions or changes made during your Colab session will not be saved.  If you want to save your own copy to Google Drive in order to make modifications, click on the ![Colab copy icon](google_colab_copy_icon.png) button located near the top of the Colab page.
+
+
+## Saving a Jupyter notebook to your local machine
+
+---
+To run a Jupyter notebook locally in your IDE of choice, NumPy, Pandas, Matplotlib, and/or Seaborn must be installed in your local environment or virtual environment.  (The specific libraries used, if any, are always imported at the beginning of each notebook.)  Official installation instructions for each library are included below:
+* [NumPy Installation](https://numpy.org/install/)
+* [Pandas Installation](https://pandas.pydata.org/docs/getting_started/install.html)
+* [Matplotlib Installation](https://matplotlib.org/stable/users/installing/index.html)
+* [Seaborn Installation](https://seaborn.pydata.org/installing.html)
+
+The raw .ipynb file can be saved to your local machine by navigating to the repository sub-folder (also accessible via the 🔗 icon in the table above), clicking on the .ipynb file, and clicking on the *Download raw file* icon (circled in red below).
+
+![GitHub file download](downloading_file.png)
